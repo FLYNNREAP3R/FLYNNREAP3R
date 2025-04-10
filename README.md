@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @FLYNNREAP3R
-- 👀 I am a passionate game dev who soecializes in UI/UX development and has experience in Unreal Engine and Unity. 
-- 🌱 Currently working on Unreal Engine 5.3 via self teach while I finish up my Bachelor's Degree
+- 👀 I am a passionate game dev who specializes in gameplay programming and has experience in Unreal Engine and Unity. 
+- 🌱 Have a Bachelor's degree in Game Development and Programming
 - 💞️ I’m looking to collaborate on whatever and with whoever is willing to let me join.
-- 📫 How to reach me: E-mail works great. 
+- 📫 How to reach me: flynnreap3r@gmail.com
+- Check out my Itch.io page for published games: https://flynnreap3r.itch.io/
 
 <!---
 FLYNNREAP3R/FLYNNREAP3R is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
