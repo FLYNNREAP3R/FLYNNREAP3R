@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FLYNNREAP3R
-- 👀 I am a passionate game dev who specializes in gameplay programming and has experience in Unreal Engine and Unity. 
+- 👀 I am a passionate game dev who specializes in gameplay programming and has experience in Unreal Engine, Unity, and Godot. 
 - 🌱 Have a Bachelor's degree in Game Development and Programming
 - 💞️ I’m looking to collaborate on whatever and with whoever is willing to let me join.
 - 📫 How to reach me: flynnreap3r@gmail.com
